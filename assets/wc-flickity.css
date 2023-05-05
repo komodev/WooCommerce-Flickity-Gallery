@@ -16,7 +16,7 @@
 }
 
 .woocommerce div.product div.images .wcfg-primary-gallery a img {
-	max-height: 450px;
+	max-height: 550px;
 }
 
 /* Flexbox for vertically centered images */
