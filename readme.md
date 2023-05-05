@@ -3,8 +3,8 @@ WooCommerce - Flickity Gallery (WordPress Plugin)
 
 _Turn your WooCommerce featured image and gallery photos into an interactive image carousel using Flickity._
 
-    Contributors: radgh
-    Donate link: https://paypal.me/radgh
+    Contributors: komodo016
+    Donate link: https://www.paypal.com/paypalme/komodo016
     Tags: woocommerce, flickity, gallery, carousel, product
     Requires at least: 4.1
     Tested up to: 4.5.3
